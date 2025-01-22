@@ -3362,7 +3362,7 @@
         "dwGlobalVars": "0x1861AA8",
         "dwGlowManager": "0x1A7F8D0",
         "dwLocalPlayerController": "0x1A6A210",
-        "dwLocalPlayerPawn": "0x186DE00",
+        "dwLocalPlayerPawn": "0x186DDE8",
         "dwPlantedC4": "0x1A88DA0",
         "dwPrediction": "0x186DC80",
         "dwSensitivity": "0x1A81018",
